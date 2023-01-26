@@ -2,6 +2,8 @@
 
 About me...
 
+My name is Jarod Bauer
+
 ## UX Team Project
 
 Coming soon.
